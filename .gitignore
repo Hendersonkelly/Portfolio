@@ -1,2 +1,6 @@
 .DS_Store
 /test-images
+
+
+git config --global user.email kellyjeanhenderson@gmail.com
+git config --global user.name kellyjeanhenderson@gmail.com
